@@ -1,0 +1,12 @@
+D:\yanzhong\激光器\激光清扫下位机\新产业\DLL_demo\bin\Debug\DLL_demo.exe.config
+D:\yanzhong\激光器\激光清扫下位机\新产业\DLL_demo\bin\Debug\DLL_demo.exe
+D:\yanzhong\激光器\激光清扫下位机\新产业\DLL_demo\bin\Debug\DLL_demo.pdb
+D:\yanzhong\激光器\激光清扫下位机\新产业\DLL_demo\obj\Debug\DLL_demo.csproj.AssemblyReference.cache
+D:\yanzhong\激光器\激光清扫下位机\新产业\DLL_demo\obj\Debug\DLL_demo.csproj.SuggestedBindingRedirects.cache
+D:\yanzhong\激光器\激光清扫下位机\新产业\DLL_demo\obj\Debug\DLL_demo.Form1.resources
+D:\yanzhong\激光器\激光清扫下位机\新产业\DLL_demo\obj\Debug\DLL_demo.Properties.Resources.resources
+D:\yanzhong\激光器\激光清扫下位机\新产业\DLL_demo\obj\Debug\DLL_demo.csproj.GenerateResource.cache
+D:\yanzhong\激光器\激光清扫下位机\新产业\DLL_demo\obj\Debug\DLL_demo.csproj.CoreCompileInputs.cache
+D:\yanzhong\激光器\激光清扫下位机\新产业\DLL_demo\obj\Debug\DLL_demo.csproj.CopyComplete
+D:\yanzhong\激光器\激光清扫下位机\新产业\DLL_demo\obj\Debug\DLL_demo.exe
+D:\yanzhong\激光器\激光清扫下位机\新产业\DLL_demo\obj\Debug\DLL_demo.pdb
