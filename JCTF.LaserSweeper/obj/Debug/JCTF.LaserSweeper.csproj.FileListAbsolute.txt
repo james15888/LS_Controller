@@ -1,0 +1,6 @@
+D:\yanzhong\激光器\激光清扫下位机\新产业\JCTF.LaserSweeper\bin\Debug\JCTF.LaserSweeper.dll
+D:\yanzhong\激光器\激光清扫下位机\新产业\JCTF.LaserSweeper\bin\Debug\JCTF.LaserSweeper.pdb
+D:\yanzhong\激光器\激光清扫下位机\新产业\JCTF.LaserSweeper\obj\Debug\JCTF.LaserSweeper.csproj.AssemblyReference.cache
+D:\yanzhong\激光器\激光清扫下位机\新产业\JCTF.LaserSweeper\obj\Debug\JCTF.LaserSweeper.csproj.CoreCompileInputs.cache
+D:\yanzhong\激光器\激光清扫下位机\新产业\JCTF.LaserSweeper\obj\Debug\JCTF.LaserSweeper.dll
+D:\yanzhong\激光器\激光清扫下位机\新产业\JCTF.LaserSweeper\obj\Debug\JCTF.LaserSweeper.pdb
